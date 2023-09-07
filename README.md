@@ -7,5 +7,6 @@ An Application Built using CUDA and C++ which converts an Image to grayscale usi
 
 ## Reults
 
-CUDA Version - 12.2
+
+CUDA Version - 12.2\n
 Visual Studio 2019 - 16.11.29
