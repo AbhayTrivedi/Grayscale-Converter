@@ -2,9 +2,10 @@
 An Application Built using CUDA and C++ which converts an Image to grayscale using parallel programming in NVIDIA GPU.
 
 ## Processing using CPU
+<img src="https://github.com/AbhayTrivedi/Grayscale-Converter/assets/63183752/d828b0f6-ae29-4d02-9abb-4e162b825eb4" alt="Autumn_Mill" width="500">
 
 ## Processing using GPU
-![image](https://github.com/AbhayTrivedi/Grayscale-Converter/assets/63183752/bb2d1a14-3422-4d63-a870-e14e0cbdd239)
+<img src="https://github.com/AbhayTrivedi/Grayscale-Converter/assets/63183752/bb2d1a14-3422-4d63-a870-e14e0cbdd239" alt="Autumn_Mill" width="500">
 
 # Results
 ## Before
